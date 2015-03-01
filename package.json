@@ -22,6 +22,7 @@
   "homepage": "https://github.com/timmmmyboy/about",
   "dependencies": {
     "bower": "^1.3.12",
-    "gulp": "^3.8.11"
+    "gulp": "^3.8.11",
+    "main-bower-files": "^2.5.0"
   }
 }
