@@ -3,3 +3,4 @@ exclude:
 - LICENSE
 - README.md
 - package.json
+- bower.json
