@@ -4,4 +4,6 @@ exclude:
 - README.md
 - package.json
 - bower.json
+- gulpfile.js
 - node_modules
+- bower_components
