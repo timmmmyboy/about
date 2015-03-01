@@ -4,3 +4,4 @@ exclude:
 - README.md
 - package.json
 - bower.json
+- node_modules
