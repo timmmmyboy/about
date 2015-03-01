@@ -1,0 +1,23 @@
+{
+  "name": "About",
+  "version": "0.0.1",
+  "homepage": "https://github.com/timmmmyboy/about",
+  "authors": [
+    "Tim Owens <tim@timowens.io>"
+  ],
+  "description": "A landing page for timowens.io",
+  "main": "index.html",
+  "keywords": [
+    "website",
+    "about"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
