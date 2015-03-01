@@ -1,0 +1,23 @@
+{
+  "name": "About",
+  "version": "0.0.1",
+  "description": "A landing page for timowens.io",
+  "main": "index.html",
+  "scripts": {
+    "test": "jekyll serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timmmmyboy/about.git"
+  },
+  "keywords": [
+    "website",
+    "about"
+  ],
+  "author": "Tim Owens <tim@timowens.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timmmmyboy/about/issues"
+  },
+  "homepage": "https://github.com/timmmmyboy/about"
+}
